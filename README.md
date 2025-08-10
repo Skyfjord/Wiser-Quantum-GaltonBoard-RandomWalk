@@ -1,4 +1,4 @@
-#Quantum Galton Board Simulator: Universal Statistical Simulator Implementation
+# Quantum Galton Board Simulator: Universal Statistical Simulator Implementation
 
 Team Name  
 GOAT
