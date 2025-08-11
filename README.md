@@ -24,5 +24,4 @@ This project demonstrates the potential of quantum algorithms to outperform clas
 
 We have prepared a presentation deck summarizing our approach, implementation details, results, and future directions, aimed at conveying both the theoretical and practical aspects of the quantum Galton Board simulator.
 
-Project Presentation Deck  
-*Please find the presentation deck file attached in the repository.*
+[Project Presentation Deck](./Goat_Quantum_Walks_and_Monte_Carlo.pptx)
